@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "bkpr",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
